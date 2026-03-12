@@ -1,16 +1,11 @@
 # ---
-# title: Titre du travail
-# repository: tpoisot/BIO245-modele
+# title: Intervention - Feu de fôret
+# repository: Devoir-2-Feux-de-F-ret
 # auteurs:
-#    - nom: Auteur
-#      prenom: Premier
-#      matricule: XXXXXXXX
-#      github: premierAuteur
-#    - nom: Auteur
-#      prenom: Deuxième
-#      matricule: XXXXXXXX
-#      github: DeuxiAut
-# ---
+#    - nom: Koné
+#      prenom: Maimouna
+#      matricule: 20234378
+#      github: maiyai123
 
 # # Introduction
 
