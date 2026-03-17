@@ -1,3 +1,16 @@
+## Projet
+Maimouna Koné (20234378)
+
+BIO2045
+Devoir - 2
+Simulation d'aménagement d'un corridor écologique sous ligne haute tension
+
+Présenté à
+Timothée Poisot
+
+Université de Montréal
+16 mars 2026
+
 # Description du mandat
 Ce projet vise à simuler l'aménagement d'un corridor écologique de 200 parcelles situé sous une ligne électrique à haute tension. L'objectif est de créer un code qui simule une stratégie d'intervention humaine et 
 d'identifier une dynamique écologique permettant d'atteindre un équilibre durable entre la biodiversité et la sécurité des infrastructures.
