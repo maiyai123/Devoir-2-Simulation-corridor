@@ -1,4 +1,3 @@
-# ---
 # title: Simulation d'aménagement d'un corridor écologique sous ligne haute tension
 # repository: Devoir-2-Simulation-corridor
 # auteurs:
