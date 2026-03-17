@@ -1,7 +1,7 @@
 ## Dépôt modèle pour le cours BIO 2045
 
 # Description du mandat
-# Ce projet vise à simuler l'aménagement d'un corridor écologique de 200 parcelles situé sous une ligne électrique à haute tension. L'objectif est de créer un code qui simule une stratégie d'intervention humaine et 
+Ce projet vise à simuler l'aménagement d'un corridor écologique de 200 parcelles situé sous une ligne électrique à haute tension. L'objectif est de créer un code qui simule une stratégie d'intervention humaine et 
 # d'identifier une dynamique écologique permettant d'atteindre un équilibre durable entre la biodiversité et la sécurité des infrastructures.
 # Le succès du projet est défini par le respect des critères suivants dans au moins 80% des simulations stochastiques :
 # 1. Végétalisation: 20 %% des parcelles doivent être occupées par de la végétation à l'équilibre.
