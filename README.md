@@ -13,13 +13,14 @@
 # 16 mars 2026
 
 # Description du mandat
-Ce projet vise à simuler l'aménagement d'un corridor écologique de 200 parcelles situé sous une ligne électrique à haute tension. L'objectif est de créer un code qui simule une stratégie d'intervention humaine et d'identifier une dynamique écologique permettant d'atteindre un équilibre durable entre la biodiversité et la sécurité des infrastructures.
-Le succès du projet est défini par le respect des critères suivants dans au moins 80% des simulations stochastiques :
-Végétalisation: 20 %% des parcelles doivent être occupées par de la végétation à l'équilibre.
-Composition : Parmi les parcelles végétalisées, 30% doivent être des herbes et 70% des buissons.
-Diversité des buissons : La variété de buisson la moins abondante doit représenter au moins 30% du total des buissons.
-Contrainte initiale : Le corridor est initialement vide, mais une intervention permet de planter un maximum de 50 parcelles au départ.
-L'efficacité du modèle est alors comparée et validée par la comparaison entre des simulations stochastiques (incluant le hasard écologique) et un modèle déterministe.
+# Ce projet vise à simuler l'aménagement d'un corridor écologique de 200 parcelles situé sous une ligne électrique à haute tension. L'objectif est de créer un code qui simule une stratégie d'intervention humaine et 
+# d'identifier une dynamique écologique permettant d'atteindre un équilibre durable entre la biodiversité et la sécurité des infrastructures.
+# Le succès du projet est défini par le respect des critères suivants dans au moins 80% des simulations stochastiques :
+# 1. Végétalisation: 20 %% des parcelles doivent être occupées par de la végétation à l'équilibre.
+# 2. Composition : Parmi les parcelles végétalisées, 30% doivent être des herbes et 70% des buissons.
+# 3. Diversité des buissons : La variété de buisson la moins abondante doit représenter au moins 30% du total des buissons.
+# 4. Contrainte initiale : Le corridor est initialement vide, mais une intervention permet de planter un maximum de 50 parcelles au départ.
+# L'efficacité du modèle est alors comparée et validée par la comparaison entre des simulations stochastiques (incluant le hasard écologique) et un modèle déterministe.
 
 ## Organisation du projet
 Organisation du projet
