@@ -1,7 +1,7 @@
-# title: Simulation d'aménagement d'un corridor écologique sous ligne haute tension
-# repository: Devoir-2-Simulation-corridor
+# Simulation d'aménagement d'un corridor écologique sous ligne haute tension
+# repository:  https://maiyai123.github.io/Devoir-2-Simulation-corridor/
 # auteurs:
-#    - nom: Koné
+#      nom: Koné
 #      prenom: Maimouna
 #      matricule: 20234378
 #      github: maiyai123
